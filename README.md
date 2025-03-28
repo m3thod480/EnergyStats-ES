@@ -30,8 +30,8 @@ Para hacer uso de la utilidad solo hay que hacer CTRL+F9.
 1.  Clonar este repositorio:
     
     ```bash
-    git clone https://github.com/TU-USUARIO/analisis-red-electrica.git
-    cd analisis-red-electrica
+    git clone https://github.com/m3thod480/EnergyStats-ES.git
+    cd EnergyStats-ES
     
     ```
     
