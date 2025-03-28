@@ -53,10 +53,7 @@ Para hacer uso de la utilidad solo hay que hacer CTRL+F9.
     
 
 ## Ejemplo de resultado
-```
 ![Ejemplo de gráfico](example1.png)
-
-```
 
 ## Notas
 
